@@ -56,23 +56,15 @@ window.addEventListener('scroll', () => {
 /* Switching words functionality */
 document.addEventListener("DOMContentLoaded", function () {
     const words = [
-        "إندونيسيا",
+        "رحلات سياحية",
+        "النمسا",
         "تايلاند",
-        "المالديف",
-        "موريشيوس",
-        "عروض سياحية",
         "جورجيا",
+        "ماليزيا",
         "تركيا",
         "اذربيجان",
-        "البوسنة",
-        "سيريلانكا",
-        "ماليزيا",
-        "دبي",
-        "مصر",
-        "الجبل الأسود",
-        "ياس ايلاند",
-        "اسطنبول",
-        "الدوحة",
+        "ارمينيا",
+        "عروض سياحية",
     ];
 
     let currentIndex = 1;
